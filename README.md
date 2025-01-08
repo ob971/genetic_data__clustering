@@ -1,10 +1,9 @@
-# The project participants are 
-Amanuel Tsehay (UGR/6705/14), 
-Bikila Tariku (UGR/8089/14), and 
-Obsu Kebede (UGR/7425/14).
-
-
 # Genetic Data Clustering for Disease Prediction
+
+> **Project Participants:**
+> - **Amanuel Tsehay** (`UGR/6705/14`)
+> - **Bikila Tariku** (`UGR/8089/14`)
+> - **Obsu Kebede** (`UGR/7425/14`)
 
 ## Table of Contents
 
