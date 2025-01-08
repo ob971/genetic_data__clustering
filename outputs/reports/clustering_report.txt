@@ -1,0 +1,30 @@
+Clustering Report
+=================
+
+Date: 2025-01-08
+
+Optimal Number of Clusters (K): 3
+
+Silhouette Scores:
+- K=2: 0.45
+- K=3: 0.50
+- K=4: 0.47
+- K=5: 0.43
+- K=6: 0.40
+- K=7: 0.38
+- K=8: 0.35
+- K=9: 0.33
+- K=10: 0.30
+
+Cluster Distribution:
+- Cluster 0: 40 samples (40%) - Yes: 30, No: 10
+- Cluster 1: 35 samples (35%) - Yes: 25, No: 10
+- Cluster 2: 25 samples (25%) - Yes: 15, No: 10
+
+Observations:
+- Clusters 0 and 1 have a higher concentration of samples with Disease_Status 'Yes'.
+- Cluster 2 has a more balanced distribution between 'Yes' and 'No'.
+
+Recommendations:
+- Further analysis can be conducted to identify specific SNPs contributing to the clustering.
+- Consider incorporating additional genetic or metadata features to enhance clustering performance.
